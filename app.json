@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "proffy",
+    "slug": "proffy",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "proffy"
+}
