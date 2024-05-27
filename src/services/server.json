@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "id": "784a6bcf-a7bb-4782-96b4-610cf0931bc1",
+      "name": "Henrique",
+      "lastName": "Anjos",
+      "email": "henrique.aa01@gmail.com",
+      "password": "cf936ee65e84c6de6530182711e2f0c6",
+      "phone": "(67) 98181-4223",
+      "photo": "",
+      "description": "Gosto de Programar mais posso te ensinar a Hackear um sisteminha, bora fazer um projeto no com o Freeza ? 😅🤙🏼I",
+      "matter": "Matématica",
+      "classPrice": "R$ 40,00",
+      "schedules": [
+        {
+          "id": 0,
+          "day": "Segunda",
+          "at": 7,
+          "until": 8
+        }
+      ],
+      "favorites": []
+    },
+    {
+      "id": "a29f16f5-5fcc-4c6a-9515-0c067160a22e",
+      "name": "Vitor",
+      "lastName": "Anjos",
+      "email": "vitor.aa00@gmail.com",
+      "password": "e10adc3949ba59abbe56e057f20f883e",
+      "phone": "",
+      "photo": "",
+      "description": "",
+      "matter": "",
+      "classPrice": "",
+      "schedules": [
+        {
+          "id": 0,
+          "day": "",
+          "at": 0,
+          "until": 0
+        }
+      ],
+      "favorites": []
+    },
+    {
+      "id": "b801d3a7-7c69-4e0f-95a1-8cb80c186d54",
+      "name": "Maria Eduarda",
+      "lastName": "Anjos",
+      "email": "duda@gmail.com",
+      "password": "e10adc3949ba59abbe56e057f20f883e",
+      "phone": "",
+      "photo": "",
+      "description": "",
+      "matter": "",
+      "classPrice": "",
+      "schedules": [
+        {
+          "id": 0,
+          "day": "",
+          "at": 0,
+          "until": 0
+        }
+      ],
+      "favorites": [
+        "784a6bcf-a7bb-4782-96b4-610cf0931bc1"
+      ]
+    }
+  ]
+}
